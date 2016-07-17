@@ -1,2 +1,3 @@
 # GreedyMusic
-A Music webapp created using Python(Django)
+A Music webapp created using Python(Django).
+
